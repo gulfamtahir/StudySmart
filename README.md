@@ -22,7 +22,7 @@ StudySmart offers a quick and efficient way to find answers directly from univer
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/StudySmart.git
+    git clone https://github.com/gulfamtahir/StudySmart.git
     cd StudySmart
     ```
 
